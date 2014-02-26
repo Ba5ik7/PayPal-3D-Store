@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<store>
+		<category name="Category 1">
+
+			<product name="Product 1" type="apparel" price="11">
+				<description>Description goes here get some more code shit</description>
+				
+				<picture color="RED">images/1.png</picture>
+				<picture color="GREEN">images/2.png</picture>
+				<picture color="BLUE">images/3.png</picture>
+				<picture color="BLACK">images/4.png</picture>
+				<picture color="Madi">images/5.png</picture>
+				<size>SMALL MEDIUM LARGE XLARGE</size>
+			</product>
+			
+			<product name="product 2" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="RED">images/1.png</picture>
+				<picture color="GREEN">images/2.png</picture>
+				<picture color="BLUE">images/3.png</picture>
+				<picture color="BLACK">images/4.png</picture>
+				<picture color="WHITE">images/5.png</picture>
+			<size>SMALL MEDIUM LARGE XLARGE</size>
+			</product>
+			
+			
+			<product name="product 3" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="RED">images/1.png</picture>
+				<picture color="GREEN">images/2.png</picture>
+				<picture color="BLUE">images/3.png</picture>
+				<picture color="BLACK">images/4.png</picture>
+				<picture color="WHITE">images/5.png</picture>
+			<size>SMALL MEDIUM LARGE XLARGE</size>
+			</product>
+			
+			<product name="product 4" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="RED">images/1.png</picture>
+				<picture color="GREEN">images/2.png</picture>
+				<picture color="BLUE">images/3.png</picture>
+				<picture color="BLACK">images/4.png</picture>
+				<picture color="WHITE">images/5.png</picture>
+			<size>SMALL MEDIUM LARGE XLARGE</size>
+			</product>
+			
+			<product name="product 5" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="RED">images/1.png</picture>
+				<picture color="GREEN">images/2.png</picture>
+				<picture color="BLUE">images/3.png</picture>
+				<picture color="BLACK">images/4.png</picture>
+				<picture color="WHITE">images/5.png</picture>
+			<size>SMALL MEDIUM LARGE XLARGE</size>
+			</product>
+			
+			<product name="product 6" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="RED">images/1.png</picture>
+				<picture color="GREEN">images/2.png</picture>
+				<picture color="BLUE">images/3.png</picture>
+				<picture color="BLACK">images/4.png</picture>
+				<picture color="WHITE">images/5.png</picture>
+			<size>SMALL MEDIUM LARGE XLARGE</size>
+			</product>
+			
+			<product name="product 7" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="RED">images/1.png</picture>
+				<picture color="GREEN">images/2.png</picture>
+				<picture color="BLUE">images/3.png</picture>
+				<picture color="BLACK">images/4.png</picture>
+				<picture color="WHITE">images/5.png</picture>
+			<size>SMALL MEDIUM LARGE XLARGE</size>
+			</product>
+			
+			<product name="product 8" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="RED">images/1.png</picture>
+				<picture color="GREEN">images/2.png</picture>
+				<picture color="BLUE">images/3.png</picture>
+				<picture color="BLACK">images/4.png</picture>
+				<picture color="WHITE">images/5.png</picture>
+			<size>SMALL MEDIUM LARGE XLARGE</size>
+			</product>
+			
+			<product name="product 9" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="RED">images/1.png</picture>
+				<picture color="GREEN">images/2.png</picture>
+				<picture color="BLUE">images/3.png</picture>
+				<picture color="BLACK">images/4.png</picture>
+				<picture color="WHITE">images/5.png</picture>
+			<size>SMALL MEDIUM LARGE XLARGE</size>
+			</product>
+			
+			<product name="product 10" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="RED">images/1.png</picture>
+				<picture color="GREEN">images/2.png</picture>
+				<picture color="BLUE">images/3.png</picture>
+				<picture color="BLACK">images/4.png</picture>
+				<picture color="WHITE">images/5.png</picture>
+			<size>SMALL MEDIUM LARGE XLARGE</size>
+			</product>
+			
+			<product name="product 11" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="RED">images/1.png</picture>
+				<picture color="GREEN">images/2.png</picture>
+				<picture color="BLUE">images/3.png</picture>
+				<picture color="BLACK">images/4.png</picture>
+				<picture color="WHITE">images/5.png</picture>
+			<size>SMALL MEDIUM LARGE XLARGE</size>
+			</product>
+			
+			<product name="product 12" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="RED">images/1.png</picture>
+				<picture color="GREEN">images/2.png</picture>
+				<picture color="BLUE">images/3.png</picture>
+				<picture color="BLACK">images/4.png</picture>
+				<picture color="WHITE">images/5.png</picture>
+			<size>SMALL MEDIUM LARGE XLARGE</size>
+			</product>
+			
+			
+		</category>
+		
+		<category name="category 2">
+
+			<product name="product 1" type="apparel" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="RED">images/1.png</picture>
+				<picture color="GREEN">images/2.png</picture>
+				<picture color="BLUE">images/3.png</picture>
+				<picture color="BLACK">images/4.png</picture>
+				<picture color="WHITE">images/5.png</picture>
+				<size>SMALL MEDIUM LARGE XLARGE</size>
+			</product>
+			
+			<product name="product 2" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="RED">images/1.png</picture>
+				<picture color="GREEN">images/2.png</picture>
+				<picture color="BLUE">images/3.png</picture>
+				<picture color="BLACK">images/4.png</picture>
+				<picture color="WHITE">images/5.png</picture>
+			<size>SMALL MEDIUM LARGE XLARGE</size>
+			</product>
+			
+			
+			<product name="product 3" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="RED">images/1.png</picture>
+				<picture color="GREEN">images/2.png</picture>
+				<picture color="BLUE">images/3.png</picture>
+				<picture color="BLACK">images/4.png</picture>
+				<picture color="WHITE">images/5.png</picture>
+			<size>SMALL MEDIUM LARGE XLARGE</size>
+			</product>
+			
+			<product name="product 4" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="RED">images/1.png</picture>
+				<picture color="GREEN">images/2.png</picture>
+				<picture color="BLUE">images/3.png</picture>
+				<picture color="BLACK">images/4.png</picture>
+				<picture color="WHITE">images/5.png</picture>
+			<size>SMALL MEDIUM LARGE XLARGE</size>
+			</product>
+			
+			<product name="product 5" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="RED">images/1.png</picture>
+				<picture color="GREEN">images/2.png</picture>
+				<picture color="BLUE">images/3.png</picture>
+				<picture color="BLACK">images/4.png</picture>
+				<picture color="WHITE">images/5.png</picture>
+			<size>SMALL MEDIUM LARGE XLARGE</size>
+			</product>
+			
+			<product name="product 6" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="RED">images/1.png</picture>
+				<picture color="GREEN">images/2.png</picture>
+				<picture color="BLUE">images/3.png</picture>
+				<picture color="BLACK">images/4.png</picture>
+				<picture color="WHITE">images/5.png</picture>
+			<size>SMALL MEDIUM LARGE XLARGE</size>
+			</product>
+			
+			<product name="product 7" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="RED">images/1.png</picture>
+				<picture color="GREEN">images/2.png</picture>
+				<picture color="BLUE">images/3.png</picture>
+				<picture color="BLACK">images/4.png</picture>
+				<picture color="Wes">images/5.png</picture>
+			<size>SMALL MEDIUM LARGE XLARGE</size>
+			</product>
+			
+			<product name="product 8" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="RED">images/1.png</picture>
+				<picture color="GREEN">images/2.png</picture>
+				<picture color="BLUE">images/3.png</picture>
+				<picture color="BLACK">images/4.png</picture>
+				<picture color="WHITE">images/5.png</picture>
+			<size>SMALL MEDIUM LARGE XLARGE</size>
+			</product>
+			
+			<product name="product 9" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="RED">images/1.png</picture>
+				<picture color="GREEN">images/2.png</picture>
+				<picture color="BLUE">images/3.png</picture>
+				<picture color="BLACK">images/4.png</picture>
+				<picture color="WHITE">images/5.png</picture>
+			<size>SMALL MEDIUM LARGE XLARGE</size>
+			</product>
+			
+
+		</category>
+		
+		
+		<category name="category 3">
+				<product name="product 1" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="Default">images/store10.jpg</picture>
+			<size>Default</size>
+			</product>
+			
+			<product name="product 2" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="Default">images/store9.jpg</picture>
+			<size>Default</size>
+			</product>
+			
+			<product name="product 3" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="Default">images/store8.jpeg</picture>
+			<size>Default</size>
+			</product>
+			
+			<product name="product 4" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="Default">images/store7.jpg</picture>
+			<size>Default</size>
+			</product>
+			
+			<product name="product 5" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="Default">images/store6.jpeg</picture>
+			<size>Default</size>
+			</product>
+			
+			<product name="product 6" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="Default">images/store5.png</picture>
+			<size>Default</size>
+			</product>
+			
+			<product name="product 7" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="Default">images/store4.jpg</picture>
+			<size>Default</size>
+			</product>
+			
+			<product name="product 8" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="Default">images/store4.jpg</picture>
+			<size>Default</size>
+			</product>
+			
+			<product name="product 9" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="Default">images/store2.jpg</picture>
+			<size>Default</size>
+			</product>
+			
+			<product name="product 10" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				
+				<picture color="Default">images/store1.jpg</picture>
+			<size>Default</size>
+			</product>
+			
+			
+			
+		</category>
+		
+		
+		
+		
+	
+	
+	</store>
+</xml>
